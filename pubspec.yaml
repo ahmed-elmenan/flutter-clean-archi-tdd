@@ -32,9 +32,9 @@ dependencies:
   flutter_bloc: ^7.3.0
   equatable: ^2.0.3
   dartz: ^0.10.0
-  connectivity: ^3.0.6
   http: ^0.13.3
   shared_preferences: ^2.0.7
+  data_connection_checker: ^0.3.4
 
 dev_dependencies:
   flutter_test:
